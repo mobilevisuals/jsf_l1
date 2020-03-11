@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JSF" type="jsf">
+    <CLASSES>
+      <root url="jar:///javaee-api-8.0.jar!/" />
+      <root url="jar:///javax.faces-api-2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
